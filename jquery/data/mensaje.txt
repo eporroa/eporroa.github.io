@@ -1,1 +1,1 @@
-hola mundo
+Este es un mensaje desde un archivo externo
